@@ -1,0 +1,5 @@
+*.img
+*.zip
+*.qcow2
+*.dtb
+kernel-*
